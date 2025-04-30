@@ -1,3 +1,6 @@
+# Migrated
+Moved to: https://codeberg.org/newteq_github_archives/sample-php-store
+
 # Getting started
 
 The quickest way to get started with this simple php store catalog is to have the following setup.
